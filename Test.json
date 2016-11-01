@@ -1,0 +1,21 @@
+{
+    "swagger": "2.0",	
+	"sites":[
+       {
+			"name":"raintree",
+			"url":"https://gtgtc-apila01d.nam.nsroot.net:20000/nga",
+			"type":"gctswagger/v1"
+		}
+	,{
+			"name":"platform",
+			"url":"https://apis-ccp.citibank.nam.nsroot.net:20000/swagger-ui-master/index.html",
+			"type":"gctswagger/v1"
+	}
+	,{
+	        "name":"citialerts",
+			"url":"http://vm-60c7-6323.nam.nsroot.net:8080/swagger",
+			"type":"gctswagger/v1"
+	}
+	]
+		
+}
